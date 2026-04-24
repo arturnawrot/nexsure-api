@@ -13,7 +13,7 @@ git clone https://github.com/arturnawrot/nexsure-api
 pip install -r requirements.txt
 ```
 
-Requires Python 3.10+.
+Requires Python 3.14+.
 
 ---
 

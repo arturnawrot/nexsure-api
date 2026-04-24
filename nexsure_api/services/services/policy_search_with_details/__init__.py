@@ -1,0 +1,1 @@
+from nexsure_api.services.services.policy_search_with_details.service import PolicySearchWithDetails
